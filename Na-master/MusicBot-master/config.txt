@@ -1,6 +1,5 @@
-token=NDkwMzUyNTQxODA1MTgyOTc2.Dpi_Cg.kWTUr2iRY6uLl0ZsuA3dSlZfZaI
+token=NDkwMzUyNTQxODA1MTgyOTc2.DpjC1w.RUmw240Cvq7-QtMa0amCjO1SAIM
 owner=445630664671232000
 prefix=N
 game=Type Nhelp
 stayinchannel=true
-songinstatus=true

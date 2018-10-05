@@ -1,4 +1,4 @@
-token=NDkwMzUyNTQxODA1MTgyOTc2.Dn4D9g.Ng5qRClAVTsUdP_e6NzEhYnV1gM
+token=NDkwMzUyNTQxODA1MTgyOTc2.Dpi_Cg.kWTUr2iRY6uLl0ZsuA3dSlZfZaI
 owner=445630664671232000
 prefix=N
 game=Type Nhelp
